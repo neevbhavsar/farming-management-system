@@ -18,7 +18,7 @@
     </div>
 
     <?php
-    $apiKey = "2d58800202b682f86a955e4af06c03a0";
+    $apiKey = "YOUR_API_KEY";
 
     function getWeather($url){
         $ch = curl_init();
