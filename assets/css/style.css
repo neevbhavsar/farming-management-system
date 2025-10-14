@@ -1,0 +1,18 @@
+/* Tailwind is included via CDN, but you can add custom styles here */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sidebar-link:hover {
+    background-color: #16a34a; /* Tailwind green-600 */
+}
+
+.card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+}
