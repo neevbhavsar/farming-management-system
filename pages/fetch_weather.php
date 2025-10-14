@@ -1,7 +1,7 @@
 <?php
 // !!! IMPORTANT: ENSURE THIS API KEY IS VALID AND ACTIVE !!!
 // NOTE: A 401 Error means this key is likely invalid or inactive. Please replace it with a working key.
-$apiKey = "2d58800202b682f86a955e4af06c03a0";
+$apiKey = "YOUR_API_KEY";
 
 // Ensure latitude and longitude parameters are present in the URL
 if(isset($_GET['lat']) && isset($_GET['lon'])){
