@@ -26,11 +26,11 @@ A user-friendly web application designed for farmers to efficiently manage their
 * **Responsiveness:** Fully responsive design implemented with Tailwind CSS for optimal viewing across devices.
 
 ## Technologies Used
-* **Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript
-* **Backend:** PHP 8.x
-* **Database:** MySQL / MariaDB
+* **Frontend:** HTML, CSS, Tailwind CSS, JavaScript
+* **Backend:** PHP
+* **Database:** MySQL
 * **Session Management:** PHP Sessions
-* **Animations & Effects:** CSS animations, emojis, and floating objects
+* **Animations & Effects:** CSS animations, emojis
 
 ## Installation Guide
 
