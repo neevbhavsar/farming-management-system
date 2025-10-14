@@ -38,7 +38,7 @@ To set up and run the Farming Management System locally, follow these steps:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/yourusername/farming-management-system.git](https://github.com/yourusername/farming-management-system.git)
+    git clone [https://github.com/neevbhavsar/farming-management-system.git]
     ```
 
 2.  **Setup Database:**
