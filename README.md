@@ -105,7 +105,6 @@ farming-management-system/
 ## ⚠️ Security Notes (For Demo Purposes)
 
 
-https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 * **Password Storage:** Passwords are currently stored in plain text in the database. **For any production environment, it is CRUCIAL to implement strong password hashing** (e.g., using PHP's `password_hash()` and `password_verify()`).
 * **Input Validation:** Ensure comprehensive input validation and sanitization for all user inputs to prevent vulnerabilities like Cross-Site Scripting (XSS).
 * **SQL Injection:** Implement prepared statements for all database queries to prevent SQL injection attacks.
